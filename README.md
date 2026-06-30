@@ -48,6 +48,20 @@ SkillCraft Technology
 
 Open `index.html` in your browser or use Live Server in Visual Studio Code.
 
+## 📸 Project Screenshots
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Services Section
+
+![Services Section](images/services.png)
+
+### Mobile Responsive View
+
+![Mobile View](images/mobile.png)
+
 ## 👩‍💻 Developed By
 
 **Lasya Sri Naroju**
