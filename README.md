@@ -6,6 +6,10 @@ A modern, responsive landing page built using HTML, CSS, and JavaScript as part 
 
 NovaTech is a fictional technology company website designed with a clean, modern user interface. The project demonstrates responsive web design principles and interactive UI elements.
 
+## 🌐 Live Demo
+
+🔗 https://novatech-landing-page-lasya.netlify.app/
+
 ## ✨ Features
 
 - Responsive design for desktop, tablet, and mobile devices
